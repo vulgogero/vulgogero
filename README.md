@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-  Feito com ❤️ por <strong>VulgoGero</strong>
+  Feito por <strong>VulgoGero</strong>
 </p>
